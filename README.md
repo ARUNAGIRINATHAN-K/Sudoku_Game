@@ -13,11 +13,5 @@ A classic Sudoku game built with Python and Tkinter. Includes:
 ✅ Self-generated puzzles  
 
 ## Screenshots
-*(assets/Screenshot 2025-04-23 194710.png)*
+(assets/Screenshot 2025-04-23 194710.png)
 
-## Getting Started
-
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/sudoku-game.git
-cd sudoku-game
