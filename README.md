@@ -13,5 +13,5 @@ A classic Sudoku game built with Python and Tkinter. Includes:
 ✅ Self-generated puzzles  
 
 ## Screenshots
-(assets/Screenshot 2025-04-23 194710.png)
+![Sudoku Game Screenshot](assets/Screenshot 2025-04-23 194710.png)
 
