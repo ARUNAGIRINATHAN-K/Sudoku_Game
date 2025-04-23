@@ -13,7 +13,7 @@ A classic Sudoku game built with Python and Tkinter. Includes:
 ✅ Self-generated puzzles  
 
 ## Screenshots
-*(assets/ )*
+*(assets/Screenshot 2025-04-23 194710.png)*
 
 ## Getting Started
 
